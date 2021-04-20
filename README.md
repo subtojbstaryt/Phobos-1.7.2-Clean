@@ -16,4 +16,4 @@ I'm 99.99% sure that this isn't malware but you can go on reddit or something an
 
 Enjoy :)
 
-<h1> There is no bind to open the GUI, you can do .bind clickgui key to bind it
+<h1> There is no bind to open the GUI, you can do .bind clickgui (insert key here) to bind it
